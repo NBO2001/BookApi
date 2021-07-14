@@ -1,0 +1,15 @@
+{
+  "name": "booksapi",
+  "version": "1.0.0",
+  "description": "Api that returns books",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "nbo2001",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mocha": "^9.0.2"
+  }
+}
