@@ -1,19 +1,19 @@
 const express = require('express');
 const app = express();
 
-const { listBooks } = require('./model/index');
+const { listBooks, searchId } = require('./model/index');
 
 const port = 8081;
 
 app.use(express.json());
 
-app.get('/api/bookslist', (req, res) => {
+app.get('/api/bookslist', async (req, res) => {
     res.send(listBooks());
 });
 
 
-app.get('/api/bookslist/:id', function(req, res){
-    res.send(req.params);
+app.get('/api/bookslist/:id', async function(req, res){
+    await res.send(searchId(req.params.id));
 });
 
 app.listen(port, () => {
