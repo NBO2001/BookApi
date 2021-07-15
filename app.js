@@ -1,9 +1,10 @@
+require('dotenv').config()
 const express = require('express');
 const app = express();
 
 const { listBooks, searchId, suggestionDay } = require('./model/index');
 
-const port = 8081;
+const port = (process.env.PORT);
 
 app.use(express.json());
 
