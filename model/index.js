@@ -1,24 +1,33 @@
-const books = [
-    {
-        id: 1,
-        name: "Price Test"
-    },
-    {
-        id:2,
-        name: "Edu"
+const enBooks = require('./enBooks');
+
+function listBooks(lang){
+    switch(lang){
+        case "en":
+            return enBooks;
+        default:
+            return false;
     }
-];
-
-function listBooks(){
-    return books;
 }
-function searchId(id){
-   
-    return books.filter((smt) => {
+function searchId(lang,id){
+    
+    switch(lang){
+        case "en":
 
-        return smt.id == id;
+            const newBooks = enBooks.filter((smt) => {
         
-    });
+                return smt.id == id;
+        
+            });
+        
+            if(newBooks.length){
+                return newBooks;
+            }else{
+                return false;
+            }
+
+        default:
+            return false;
+    }
 }
 
 module.exports = {listBooks, searchId};
