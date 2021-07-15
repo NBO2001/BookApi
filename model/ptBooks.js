@@ -98,6 +98,7 @@ var books = [
                 content: "No dis",   
             },
         ],
+        imgUrl: "https://images-na.ssl-images-amazon.com/images/I/51BSHmTVwsS._SX335_BO1,204,203,200_.jpg",
     },
     {
         id:2,
@@ -123,6 +124,7 @@ var books = [
                 content: "No dis",   
             },
         ],
+        imgUrl: "https://images-na.ssl-images-amazon.com/images/I/51-84mU8m0L._SX334_BO1,204,203,200_.jpg",
     },
     {
         id:3,
@@ -148,10 +150,11 @@ var books = [
                 content: "No dis",   
             },
         ],
+        imgUrl: "https://images-na.ssl-images-amazon.com/images/P/B00OZP5VRS.01._SCLZZZZZZZ_SX500_.jpg",
     },
     {
         id: 4,
-        title: "A rainha do nada",
+        title: "A Rainha do Nada",
         synopsis: "A rainha do nada é o aguardado final da trilogia best-seller O Povo do Ar. Ele será a destruição da coroa e a ruína do trono.O poder é mais fácil de adquirir do que de manter. Jude aprendeu a lição mais difícil de sua vida quando abdicou do controle do Rei Cardan em troca de um poder imensurável.Agora, ela carrega o outrora impensável título de Grande Rainha de Elfhame, mas as condições são longe de ser ideais. Exilada por Cardan no mundo mortal, Jude se encontra impotente e frustrada enquanto planeja reivindicar tudo que Cardan tomou dela.A oportunidade surge com sua irmã gêmea, cuja vida está em perigo. Para salvá-la de uma situação tenebrosa envolvendo Locke, Jude decide voltar ao Reino das Fadas se passando por Taryn. Antes disso, porém, ela precisa confrontar os próprios sentimentos contraditórios pelo rei que a traiu.No entanto, ao voltar a Elfhame, Jude constata que tudo mudou. A guerra está prestes a eclodir, e ela caminha próximo a seus inimigos. Será que ela vai ser capaz de resgatar a Coroa e o amor incondicional de Cardan, ao mesmo tempo que destrói os planos de seus inimigos? Ou será que tudo está perdido para sempre?A rainha do nada é o épico desfecho da trilogia O Povo do Ar, da renomada autora Holly Black. Com intrigas palacianas, reviravoltas inesquecíveis e uma construção de universo ao mesmo tempo complexa e crível, Holly Black se consagra mais uma vez como a rainha do Reino das Fadas e um dos nomes mais icônicos da fantasia para jovens adultos.",
         author: "Holly Black",
         stars: 4.34,
@@ -173,6 +176,7 @@ var books = [
                 content: "No dis",   
             },
         ],
+        imgUrl: "https://images-na.ssl-images-amazon.com/images/P/B08NLBZX47.01._SCLZZZZZZZ_SX500_.jpg",
     },
     {
         id: 5,
@@ -198,6 +202,7 @@ var books = [
                 content: "No dis",   
             },
         ],
+        imgUrl: "https://images-na.ssl-images-amazon.com/images/P/B00FL4MGJI.01._SCLZZZZZZZ_SX500_.jpg",
     },
     {
         id: 6,
@@ -223,6 +228,7 @@ var books = [
                 content: "No dis",   
             },
         ],
+        imgUrl: "https://m.media-amazon.com/images/I/61tekWPzcKS.jpg",
     },
     {
         id: 7,
@@ -248,6 +254,7 @@ var books = [
                 content: "No dis",   
             },
         ],
+        imgUrl: "https://m.media-amazon.com/images/P/B07D7HRR4Q.01._SCLZZZZZZZ_SX500_.jpg",
     },
     {
         id: 8,
@@ -273,6 +280,7 @@ var books = [
                 content: "No dis",   
             },
         ],
+        imgUrl: "https://m.media-amazon.com/images/P/B009WWDBX0.01._SCLZZZZZZZ_SX500_.jpg",
     }
     ,
     {
@@ -299,6 +307,7 @@ var books = [
                 content: "No dis",   
             },
         ],
+        imgUrl: "https://m.media-amazon.com/images/P/B07XTQ5T5C.01._SCLZZZZZZZ_SX500_.jpg",
     },
     {
         id: 10,
@@ -324,6 +333,7 @@ var books = [
                 content: "No dis",   
             },
         ],
+        imgUrl: "https://m.media-amazon.com/images/P/B078Z42ZFQ.01._SCLZZZZZZZ_SX500_.jpg",
     },
     {
         id: 11,
@@ -349,6 +359,7 @@ var books = [
                 content: "No dis",   
             },
         ],
+        imgUrl: "https://m.media-amazon.com/images/P/B072BMNFF1.01._SCLZZZZZZZ_SX500_.jpg",
     } 
 ];
 

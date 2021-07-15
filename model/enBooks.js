@@ -39,6 +39,7 @@ var books = [
                 content: "No dis",   
             }
         ],
+        imgUrl: "https://images-na.ssl-images-amazon.com/images/I/51BSHmTVwsS._SX335_BO1,204,203,200_.jpg",
     },
     {
         id:2,
@@ -64,6 +65,7 @@ var books = [
                 content: "No dis",   
             },
         ],
+        imgUrl: "https://images-na.ssl-images-amazon.com/images/P/B015FELXQ0.01._SCLZZZZZZZ_SX500_.jpg",
     },
     {
         id:3,
@@ -89,6 +91,7 @@ var books = [
                 content: "No dis",   
             },
         ],
+        imgUrl: "https://images-na.ssl-images-amazon.com/images/P/B01ACFIWT8.01._SCLZZZZZZZ_SX500_.jpg",
     },
     {
         id: 4,
@@ -114,6 +117,7 @@ var books = [
                 content: "No dis",   
             },
         ],
+        imgUrl: "https://images-na.ssl-images-amazon.com/images/P/B07QFS7Y13.01._SCLZZZZZZZ_SX500_.jpg",
     },
     {
         id: 5,
@@ -139,6 +143,7 @@ var books = [
                 content: "No dis",   
             },
         ],
+        imgUrl: "https://images-na.ssl-images-amazon.com/images/P/B0013TXA5Y.01._SCLZZZZZZZ_SX500_.jpg",
     },
     {
         id: 6,
@@ -164,6 +169,7 @@ var books = [
                 content: "No dis",   
             },
         ],
+        imgUrl: "https://m.media-amazon.com/images/I/51fpAO2BjXL.jpg",
     },
     {
         id: 7,
@@ -189,6 +195,7 @@ var books = [
                 content: "No dis",   
             },
         ],
+        imgUrl: "https://m.media-amazon.com/images/P/B08L9Q637Y.01._SCLZZZZZZZ_SX500_.jpg",
     },
     {
         id: 8,
@@ -214,6 +221,7 @@ var books = [
                 content: "No dis",   
             },
         ],
+        imgUrl: "https://m.media-amazon.com/images/I/71wdbkiRokL.jpg",
     }
     ,
     {
@@ -240,6 +248,7 @@ var books = [
                 content: "No dis",   
             },
         ],
+        imgUrl: "https://m.media-amazon.com/images/P/B07J4LPZRN.01._SCLZZZZZZZ_SX500_.jpg",
     },
     {
         id: 10,
@@ -265,6 +274,7 @@ var books = [
                 content: "No dis",   
             },
         ],
+        imgUrl: "https://m.media-amazon.com/images/P/B0176M3U10.01._SCLZZZZZZZ_SX500_.jpg",
     },
     {
         id: 11,
@@ -290,6 +300,7 @@ var books = [
                 content: "No dis",   
             },
         ],
+        imgUrl: "https://m.media-amazon.com/images/P/B01CXYSEB2.01._SCLZZZZZZZ_SX500_.jpg",
     }    
 ];
 
