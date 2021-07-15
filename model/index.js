@@ -1,9 +1,12 @@
 const enBooks = require('./enBooks');
+const ptBooks = require('./ptBooks');
 
 function listBooks(lang){
     switch(lang){
         case "en":
             return enBooks;
+        case "pt":
+            return ptBooks;
         default:
             return false;
     }
@@ -25,6 +28,18 @@ function searchId(lang,id){
                 return false;
             }
 
+        case "pt":
+            const newBooksPt = ptBooks.filter((smt) => {
+        
+                return smt.id == id;
+        
+            });
+        
+            if(newBooksPt.length){
+                return newBooksPt;
+            }else{
+                return false;
+            }
         default:
             return false;
     }
