@@ -1,9 +1,10 @@
 const express = require('express');
 const app = express();
 
+require('dotenv').config();
 const { listBooks, searchId, suggestionDay } = require('./model/index');
 
-const port = 8081;
+const port = (process.env.PORT);
 
 app.use(express.json());
 
@@ -51,5 +52,5 @@ app.get('/api/:lang/bookslist/:id', async function(req, res, next){
 });
 
 app.listen(port, () => {
-    console.log(`App listening at http://localhost:${port}/api/bookslist`);
+    console.log(`App listening at http://localhost:${port}/api/en/bookslist`);
 });
