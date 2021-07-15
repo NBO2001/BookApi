@@ -45,5 +45,41 @@ function searchId(lang,id){
     }
 }
 
-module.exports = {listBooks, searchId};
+function suggestionDay(lang){
+
+    const id = Math.floor((Math.random() * 11) + 1);
+
+    switch(lang){
+        case "en":
+
+            const newBooks = enBooks.filter((smt) => {
+        
+                return smt.id == id;
+        
+            });
+        
+            if(newBooks.length){
+                return newBooks;
+            }else{
+                return false;
+            }
+
+        case "pt":
+            const newBooksPt = ptBooks.filter((smt) => {
+        
+                return smt.id == id;
+        
+            });
+        
+            if(newBooksPt.length){
+                return newBooksPt;
+            }else{
+                return false;
+            }
+        default:
+            return false;
+    }
+}
+
+module.exports = {listBooks, searchId, suggestionDay};
 
