@@ -8,7 +8,7 @@ const port = 8081;
 app.use(express.json());
 
 app.get('/', async (req, res) => {
-    return res.send("Connected!");
+    return res.send("Connected!").status(200);
 });
 
 app.get('/api/:lang/bookslist', async (req, res) => {
