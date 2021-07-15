@@ -24,7 +24,9 @@ app.get('/api/:lang/suggestion', async (req, res) => {
     const data = await suggestionDay(req.params.lang);
 
     if(data){
+
         return res.send(data).status(200);
+        
     }else{
         return res.status(400).json({
             erro: true
