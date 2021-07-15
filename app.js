@@ -7,6 +7,10 @@ const port = 8081;
 
 app.use(express.json());
 
+app.get('/', async (req, res) => {
+    return res.send("Connected!");
+});
+
 app.get('/api/:lang/bookslist', async (req, res) => {
     const data = await listBooks(req.params.lang);
     
@@ -26,7 +30,7 @@ app.get('/api/:lang/suggestion', async (req, res) => {
     if(data){
 
         return res.send(data).status(200);
-        
+
     }else{
         return res.status(400).json({
             erro: true
