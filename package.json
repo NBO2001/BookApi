@@ -4,7 +4,8 @@
   "description": "Api that returns books",
   "main": "app.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "start": "node app"
   },
   "author": "nbo2001",
   "license": "MIT",
