@@ -1,12 +1,20 @@
 require('dotenv').config();
 const express = require('express');
+const cors = require('cors');
 const app = express();
-
 const { listBooks, searchId, suggestionDay } = require('./model/index');
 
 const port = (process.env.PORT);
 
 app.use(express.json());
+
+app.use((req, res, next) => {
+    res.header("Access-Control-Allow-Origin", "*");
+    res.header("Access-Control-Allow-Methods", "GET");
+    res.header("Access-Control-Allow-Headers", "X-PINGOTHER, Content-Type, Authorization");
+    app.use(cors());
+    next();
+});
 
 app.get('/', async (req, res) => {
     return res.send("Connected!").status(200);
