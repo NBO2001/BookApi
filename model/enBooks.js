@@ -174,7 +174,8 @@ var books = [
     {
         id: 7,
         title: "The Collector",
-        synopsis: "Hailed as the first modern psychological thriller, The Collector is the internationally bestselling novel that catapulted John Fowles into the front rank of contemporary novelists. This tale of obsessive love--the story of a lonely clerk who collects butterflies and of the beautiful young art student who is his ultimate quarry--remains unparalleled in its power to startle and mesmerize.",
+        synopsis:"<p>Hailed as the first modern psychological thriller, The Collector is the internationally bestselling novel that catapulted John Fowles into the front rank of contemporary novelists.</p>" 
+        +"<p> This tale of obsessive love--the story of a lonely clerk who collects butterflies and of the beautiful young art student who is his ultimate quarry--remains unparalleled in its power to startle and mesmerize.</p>",
         author: "John Fowles",
         stars: 4.5,
         chapters: [
