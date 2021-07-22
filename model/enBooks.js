@@ -28,7 +28,7 @@ var books = [
             },
             {
                 chapter: 1,
-                content: "I n Faerie, there are no fish sticks, no ketchup, no television.</NBO>",   
+                content: "In Faerie, there are no fish sticks, no ketchup, no television.</NBO>",   
             },
             {
                 chapter: 2,
@@ -49,12 +49,49 @@ var books = [
         stars: 4.59,
         chapters: [
             {
-                chapter: 0,
-                content: "No dis",   
-            },
-            {
                 chapter: 1,
-                content: "No dis",   
+                content: "I vomited into the toilet, hugging the cool sides, trying to contain the sounds of my retching.</NBO>"
+                +"Moonlight leaked into the massive marble bathing room, providing the only illumination as I was quietly, thoroughly sick.</NBO>"
+                +"Tamlin hadn’t stirred as I’d jolted awake. And when I hadn’t been able to tell  the  darkness  of  my  chamber  from  the  endless  night  of  Amarantha’s dungeons, when the cold sweat coating me felt like the blood of those faeries, I’d hurtled for the bathing room.</NBO>"
+                +"I’d been here for fifteen minutes now, waiting for the retching to subside, for the lingering tremors to spread apart and fade, like ripples in a pool.</NBO>"
+                +"Panting, I braced myself over the bowl, counting each breath. </NBO>"
+                +"Only a nightmare. One of many, asleep and waking, that haunted me these days. </NBO>"
+                +"It  had  been  three  months  since  Under  the  Mountain.  Three  months  of adjusting to my immortal body, to a world struggling to piece itself together after Amarantha had fractured it apart.</NBO>"
+                +"I focused on my breathing—in through my nose, out through my mouth. Over and over.</NBO>"
+                +"When it seemed like I was done heaving, I eased from the toilet—but didn’t go far. Just to the adjacent wall, near the cracked window, where I could see the night sky, where the breeze could caress my sticky face. I leaned my head against the wall, flattening my hands against the chill marble floor. Real. </NBO>"
+                +"This was real. I had survived; I’d made it out.</NBO>"
+                +"Unless it was a dream—just a fever-dream in Amarantha’s dungeons, and I’d awaken back in that cell, and— </NBO>"
+                +"I curled my knees to my chest. Real. Real.</NBO>"
+                +"I mouthed the words.</NBO>"
+                +"I kept mouthing them until I could loosen my grip on my legs and lift my head. Pain splintered through my hands— </NBO>"
+                +"I’d  somehow  curled  them  into  fists  so  tight  my  nails  were  close  to puncturing my skin. </NBO>"
+                +"Immortal strength—more a curse than a gift. I’d dented and folded every piece  of  silverware  I’d  touched  for  three  days  upon  returning  here,  had tripped  over  my  longer,  faster  legs  so  often  that  Alis  had  removed  any irreplaceable  valuables  from  my  rooms  (she’d  been  particularly  grumpy about me knocking over a table with an eight-hundred-year-old vase), and had shattered not one, not two, but five glass doors merely by accidentally closing them too hard. </NBO>"
+                +"Sighing through my nose, I unfolded my fingers. </NBO>"
+                +"My right hand was plain, smooth. Perfectly Fae. </NBO>"
+                +"I tilted my left hand over, the whorls of dark ink coating my fingers, my wrist, my forearm all the way to the elbow, soaking up the darkness of the room. The eye etched into the center of my palm seemed to watch me, calm and cunning as a cat, its slitted pupil wider than it’d been earlier that day. As if it adjusted to the light, as any ordinary eye would. </NBO>"
+                +"I scowled at it. </NBO>"
+                +"At whoever might be watching through that tattoo. </NBO>"
+                +"I hadn’t heard from Rhys in the three months I’d been here. Not a whisper. I hadn’t dared ask Tamlin, or Lucien, or anyone—lest it’d somehow summon the High Lord of the Night Court, somehow remind him of the fool’s bargain I’d struck Under the Mountain: one week with him every month in exchange for his saving me from the brink of death.</NBO>"
+                +"But even if Rhys had miraculously forgotten, I never could. Nor could Tamlin, Lucien, or anyone else. Not with the tattoo. </NBO>"
+                +"Even if Rhys, at the end ... even if he hadn’t been exactly an enemy. </NBO>"
+                +"To Tamlin, yes. To every other court out there, yes. So few went over the borders of the Night Court and lived to tell. No one really knew what existed in the northernmost part of Prythian.  </NBO>"
+                +"Mountains and darkness and stars and death. </NBO>"
+                +"But I hadn’t felt like Rhysand’s enemy the last time I’d spoken to him, in the hours after Amarantha’s defeat. I’d told no one about that meeting, what he’d said to me, what I’d confessed to him. </NBO>"
+                +"Be glad of your human heart, Feyre. Pity those who don’t feel anything at all. </NBO>"
+                +"I  squeezed  my  fingers  into  a  fist,  blocking  out  that  eye,  the  tattoo.  I uncoiled to my feet, and flushed the toilet before padding to the sink to rinse out my mouth, then wash my face.</NBO>"
+                +"I wished I felt nothing. </NBO>"
+                +"I wished my human heart had been changed with the rest of me, made into immortal marble. Instead of the shredded bit of blackness that it now was, leaking its ichor into me. </NBO>"
+                +"Tamlin remained asleep as I crept back into my darkened bedroom, his naked body sprawled across the mattress. For a moment, I just admired the powerful muscles of his back, so lovingly traced by the moonlight, his golden hair, mussed with sleep and the fingers I’d run through it while we made love earlier. </NBO>"
+                +"For him, I had done this—for him, I’d gladly wrecked myself and my immortal soul.</NBO>"
+                +"And now I had eternity to live with it. </NBO>"
+                +"I continued to the bed, each step heavier, harder. The sheets were now cool and dry, and I slipped in, curling my back to him, wrapping my arms around myself. His breathing was deep—even. But with my Fae ears ... sometimes I wondered if I heard his breath catch, only for a heartbeat. I never had the nerve to ask if he was awake.  </NBO>"
+                +"He never woke when the nightmares dragged me from sleep; never woke when I vomited my guts up night after night. If he knew or heard, he said nothing about it. </NBO>"
+                +"I knew similar dreams chased him from his slumber as often as I fled from mine. The first time it had happened, I’d awoken—tried to speak to him. But he’d shaken off my touch, his skin clammy, and had shifted into that beast of fur and claws and horns and fangs. He’d spent the rest of the night sprawled across the foot of the bed, monitoring the door, the wall of windows. </NBO>"
+                +"He’d since spent many nights like that. </NBO>"
+                +"Curled in the bed, I pulled the blanket higher, craving its warmth against the chill night. It had become our unspoken agreement—not to let Amarantha win by acknowledging that she still tormented us in our dreams and waking hours.</NBO>"
+                +"It was easier to not have to explain, anyway. To not have to tell him that though I’d freed him, saved his people and all of Prythian from Amarantha ... I’d broken myself apart. </NBO>"
+                +"And I didn’t think even eternity would be long enough to fix me. </NBO>"
+                +" </NBO>",   
             },
             {
                 chapter: 2,

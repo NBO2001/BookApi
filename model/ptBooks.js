@@ -108,12 +108,48 @@ var books = [
         stars: 4.59,
         chapters: [
             {
-                chapter: 0,
-                content: "No dis",   
-            },
-            {
                 chapter: 1,
-                content: "No dis",   
+                content: "Vomitei na latrina, abraçada às laterais frias, tentando conter o som das golfadas. </NBO>"
+                +"O  luar  entrava  no  imenso  banheiro  de  mármore,  fornecendo  a  única  iluminação, enquanto eu, silenciosamente, passava tão mal. </NBO>"
+                +"Tamlin  não  se  movera  quando  acordei  sobressaltada.  E,  quando  não  consegui discernir a escuridão do quarto da noite infinita das masmorras de Amarantha, quando o suor frio que me cobria pareceu o sangue daqueles feéricos, disparei para o banheiro. </NBO>"
+                +"Estava  ali  havia  15  minutos,  esperando  que  o  vômito  parasse,  que  os  tremores remanescentes se tornassem mais esparsos e se fossem, como ondas em uma poça. </NBO>"
+                +"Ofegante, eu me apoiei sobre o vaso, contando cada respiração. </NBO>"
+                +"Apenas  um  pesadelo.  Um  de  muitos,  dormindo  e  acordada,  que  me  assombravam ultimamente. </NBO>"
+                +"Fazia  três  meses  desde  os  eventos  Sob  a  Montanha.  Três  meses  me  ajustando  ao corpo imortal, a um mundo que lutava para se recompor depois que Amarantha o havia despedaçado. </NBO>"
+                +"Eu me concentrei na respiração — inspirar pelo nariz, expirar pela boca. De novo e de novo. </NBO>"
+                +"Quando  parecia  que  tinha  terminado  de  vomitar,  eu  me  afastei  com  cuidado  da latrina,  mas  não  fui  muito  longe.  Apenas  até  a  parede  adjacente,  perto  da  janela entreaberta,  onde  conseguia  ver  o  céu  noturno,  onde  a  brisa  podia  acariciar  meu  rosto suado.  Apoiei  a  cabeça  contra  a  parede,  chapando  as  mãos  contra  o  piso  de  mármore. Real. </NBO>"
+                +"Aquilo era real. Eu tinha sobrevivido; tinha escapado. </NBO>"
+                +"A não ser que fosse um sonho; apenas um sonho febril na masmorra de Amarantha, e eu acordaria de volta naquela cela e... </NBO>"
+                +"Puxei os joelhos até o peito. Real. Real. </NBO>"
+                +"Articulei a palavra, sem emitir som. </NBO>"
+                +"Continuei  fazendo  isso  até  que  conseguisse  relaxar  os  punhos  sobre  as  pernas  e levantar a cabeça. Dor percorreu minhas mãos... </NBO>"
+                +"De alguma forma eu as tinha fechado com tanta força que as unhas quase perfuraram a pele. </NBO>"
+                +"Força  imortal;  era  mais  uma  maldição  que  um  dom.  Amassei  e  dobrei  todos  os talheres em que toquei durante três dias depois de voltar, tropecei tantas vezes nas pernas mais longas e mais rápidas que Alis retirou qualquer bem de valor de meu quarto (ela ficou  especialmente  ranzinza  quando  derrubei  uma  mesa  com  um  vaso  de  oitocentos anos), e quebrei não uma, não duas, mas cinco portas de vidro apenas ao acidentalmente fechá-las com força demais. </NBO>"
+                +"Suspirei pelo nariz e estiquei os dedos. </NBO>"
+                +"A mão direita estava lisa, macia. Perfeitamente feérica. </NBO>"
+                +"Inclinei a mão esquerda, os redemoinhos de tinta cobriam meus dedos, meu pulso, do  antebraço  até  o  cotovelo,  absorvendo  a  escuridão  do  cômodo.  O  olho  gravado  no centro  da  palma  de  minha  mão  parecia  me  observar,  calmo  e  atento  como  um  gato,  a pupila em fenda estava mais ampla que no início do dia. Como se tivesse se ajustado à luz, como qualquer olho comum faria. </NBO>"
+                +"Olhei para ele com raiva. </NBO>"
+                +"Para quem quer que pudesse observar através daquela tatuagem. </NBO>"
+                +"Não tivera notícias de Rhys nos três meses em que estava ali. Sequer um sussurro. Não  ousara  perguntar  a  Tamlin,  ou  Lucien,  ou  a  ninguém  —  com  medo  de  que,  de algum jeito, convocasse o Grão-Senhor da Corte Noturna, que de algum modo o fizesse se lembrar do acordo de tolo que eu fizera Sob a Montanha: uma semana com ele todo mês em troca de que me salvasse da beira da morte. </NBO>"
+                +"Mas,  mesmo  que  Rhys  tivesse  milagrosamente  esquecido,  eu  jamais  poderia.  Nem Tamlin, Lucien ou qualquer um. Não com a tatuagem. </NBO>"
+                +"Mesmo que Rhys, no final... mesmo que ele não tivesse sido exatamente um inimigo. </NBO>"
+                +"Para Tamlin, sim. Para todas as outras cortes lá fora, sim. Pouquíssimos cruzavam as  fronteiras  da  Corte  Noturna  e  sobreviviam  para  contar  a  história.  Ninguém  de  fato sabia o que existia na parte mais ao norte de Prythian. </NBO>"
+                +"Montanhas e escuridão e estrelas e morte. </NBO>"
+                +"Mas eu não me senti inimiga de Rhysand da última vez que falei com ele, nas horas após  a  derrota  de  Amarantha.  Não  contei  a  ninguém  sobre  aquele  encontro,  o  que  ele disse para mim, o que confessei a Rhys. </NBO>"
+                +"Agradeça por seu coração humano, Feyre. Tenha piedade daqueles que não sentem nada. </NBO>"
+                +"Apertei os dedos em punho, bloqueando aquele olho, a tatuagem. Estiquei o corpo e fiquei de pé, e, então, dei descarga antes de seguir até a pia para enxaguar a boca, depois lavar o rosto. </NBO>"
+                +"Queria não sentir nada. </NBO>"
+                +"Queria  que  meu  coração  humano  tivesse  mudado  com  o  restante,  se  transformado em  mármore  imortal.  Em  vez  do  pedaço  de  escuridão  em  frangalhos  que  agora  era, vazando pus para dentro de mim. </NBO>"
+                +"Tamlin  continuava  dormindo  quando  voltei  de  fininho  para  o  quarto  escuro,  o corpo  nu  jogado  sobre  o  colchão.  Por  um  momento,  apenas  admirei  os  músculos poderosos de suas costas, delineados de forma tão linda pelo luar, os cabelos dourados, embaraçados pelo sono e pelos dedos que passei por eles enquanto fazíamos amor mais cedo. </NBO>"
+                +"Por  Tamlin,  eu  fiz  aquilo;  por  ele,  eu,  com  prazer,  destruí  a  mim  e  a  minha  alma imortal. </NBO>"
+                +"E agora tinha a eternidade para conviver com isso. </NBO>"
+                +"Continuei até a cama, cada passo mais pesado, mais difícil. Os lençóis estavam agora frios  e  secos,  e  me  deitei,  curvando  as  costas  na  direção  de  Tamlin,  envolvendo  meu corpo com os braços. Sua respiração era profunda... tranquila. Mas com meus ouvidos feéricos... Às vezes eu me perguntava se ouvira a respiração dele falhar, apenas por um segundo. Jamais tive coragem de perguntar se ele estava acordado. </NBO>"
+                +"Tamlin jamais acordava quando os pesadelos me tiravam do sono; jamais acordava quando eu vomitava as entranhas, noite após noite. Se sabia ou se ouvia, não comentava nada. </NBO>"
+                +"Eu  sabia  que  sonhos  semelhantes  afugentavam  Tamlin  do  sono  tão  frequentemente quanto  os  meus.  Na  primeira  vez  que  aconteceu,  eu  acordei...  tentei  falar  com  ele.  Mas Tamlin se desvencilhou de meu toque, a  pele suada, e se transformou naquela besta de pelos e garras e chifres e presas. Tamlin passou o resto da noite jogado ao pé da cama, monitorando a porta, a parede das janelas.</NBO>"
+                +"Desde então, ele passara muitas noites assim. </NBO>"
+                +"Enroscada  na  cama,  puxei  mais  o  cobertor,  desejando  o  calor  de  Tamlin  contra  a noite fria. Tinha se tornado nosso acordo tácito — não permitir que Amarantha vencesse ao reconhecer que ela ainda nos atormentava nos sonhos e nos momentos acordados. </NBO>"
+                +"Era mais fácil não precisar explicar mesmo. Não precisar contar a ele que, embora eu o  tivesse  libertado,  salvado  seu  povo  e  toda  Prythian  de  Amarantha...  tinha  me destruído. </NBO>"
+                +"E achava que nem mesmo a eternidade seria tempo suficiente para me consertar. </NBO>",   
             },
             {
                 chapter: 2,
