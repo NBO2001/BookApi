@@ -8,86 +8,86 @@ var books = [
         chapters: [
             {
                 chapter: 0,
-                content: "<p>Em uma sonolenta tarde de sábado, um homem vestindo um casaco escuro e comprido hesitou na frente de uma casa numa rua arborizada. Ele não tinha estacionado seu carro nem tinha ido de táxi. Nenhum vizinho o vira andando pela calçada. Ele simplesmente apareceu, como se tivesse dado um passo entre uma sombra e outra.</p>"
-                +"<p>O homem andou até a porta e levantou o punho para bater.</p>"
-                +"<p>Dentro da casa, Jude estava sentada no tapete da sala de estar comendo palitinhos de peixe empanado murchos por causa do micro-ondas e mergulhados em uma poça de ketchup. Sua irmã gêmea, Taryn, cochilava no sofá, encolhida sob um cobertor, o polegar enfiado na boca manchada de ponche de frutas. E do outro lado do sofá, a irmã mais velha delas, Vivienne, encarava a tela da televisão, o olhar esquisito de pupilas partidas grudado no desenho do rato que fugia do gato. Ela riu quando pareceu que o rato seria comido.</p>"
-                +"<p>Vivi não era feito as outras irmãs mais velhas, mas como Jude e Taryn, de sete anos, eram idênticas — com os mesmos cabelos castanhos ondulados e rostos de queixo fino —, elas também se tornavam diferentes. Para Jude, os olhos de Vivi e as pontinhas levemente peludas de suas orelhas não eram muito mais estranhos do que ser a imagem espelhada de outra pessoa.</p>"
-                +"<p>E se Jude reparava no modo como as crianças do bairro evitavam Vivi, ou em como os pais cochichavam de maneira preocupada a respeito da garota, ela não achava que fosse algo realmente importante. Adultos viviam preocupados, sempre sussurrando.</p>"
-                +"<p>Taryn bocejou e se espreguiçou, apertando a bochecha no joelho de Vivi.</p>"
-                +"<p>O sol brilhava lá fora, queimando o asfalto da entrada das casas. Motores de cortadores de grama zumbiam, e crianças brincavam em piscinas de quintal. O pai das garotas estava no barracão do jardim, onde havia uma pequena oficina. A mãe estava na cozinha, fazendo hambúrguer. Tudo estava um tédio. Tudo estava bem.</p>"
-                +"<p>Quando a batida soou, Jude pulou para atender. Esperava que fosse uma das garotas da casa da frente, querendo jogar videogame ou convidando-a para nadar depois do jantar.</p>"
-                +"<p>O homem alto estava sobre o capacho, olhando para ela.</p>"
-                +"<p>Usava um casaco marrom de couro, apesar do calor. Os sapatos tinham solado de prata e fizeram um som seco quando ele pisou na entrada. Jude olhou para o rosto mal barbeado e tremeu.</p>"
-                +"<p>— Mãe — gritou. — Mããããããããe. Tem uma pessoa aqui.</p>"
-                +"<p>A mãe veio da cozinha, secando as mãos na calça jeans.</p>"
-                +"<p>Quando viu o homem, ficou pálida.</p>"
-                +"<p>— Vá para o seu quarto — ordenou a Jude com uma voz assustadora. — Agora!</p>"
-                +"<p>— De quem essa menina é filha? — perguntou o homem, apontando para ela. A voz tinha um sotaque estranho. — Sua? Dele?</p>"
-                +"<p>— De ninguém. — A mãe nem olhou na direção de Jude. — Ela não é filha de ninguém.</p>"
-                +"<p>Isso não era verdade. Jude e Taryn eram idênticas ao pai. Todo mundo falava isso. Ela deu alguns passos na direção da escada, mas não queria ficar sozinha no quarto. Vivi, pensou Jude. Vivi vai saber quem é o homem alto. Vivi vai saber o que fazer.</p>"
-                +"<p>Mas Jude não conseguiu se obrigar a dar mais um passo.</p>"
-                +"<p>— Eu já vi muitas coisas impossíveis — disse o homem. — Já vi a bolota antes do carvalho. Já vi a fagulha antes da chama. Mas nunca vi uma mulher morta viver. Uma criança nascida do nada.</p>"
-                +"<p>A mãe pareceu não ter palavras. Seu corpo estava vibrando de tensão. Jude queria segurar a mão dela e apertar, mas não ousava.</p>"
-                +"<p>— Duvidei de Balekin quando ele me contou que eu encontraria você aqui — disse o homem, a voz mais suave agora. — Os ossos da mulher mundana e da criança natimorta nos restos queimados de minha propriedade foram convincentes. Tem ideia do que é voltar da batalha e encontrar sua esposa morta, seu único herdeiro com ela? Encontrar sua vida reduzida a cinzas?</p>"
-                +"<p>A mãe balançou a cabeça, não como se estivesse respondendo, mas como se estivesse tentando afastar as palavras.</p>"
-                +"<p>Ele deu um passo em sua direção, e ela deu um passo para trás. Havia algum problema na perna do homem alto. Ele se movimentava com rigidez, como se estivesse sentindo dor. A luz era diferente no saguão de entrada, e Jude conseguia notar o tom esverdeado esquisito da pele dele, o jeito como os dentes inferiores pareciam grandes demais para a boca.</p>"
-                +"<p>Ela também notou que os olhos do homem eram iguais aos de Vivi.</p>"
-                +"<p>— Eu nunca seria feliz com você — disse a mãe. — Seu mundo não é para pessoas como eu.</p>"
-                +"<p>O homem alto a olhou por um longo momento.</p>"
-                +"<p>— Você fez um voto — disse ele por fim.</p>"
-                +"<p>Ela empinou o queixo.</p>"
-                +"<p>— E renunciei a ele.</p>"
-                +"<p>O olhar do homem foi até Jude, e sua expressão ficou mais dura.</p>"
-                +"<p>— O que vale a promessa de uma esposa mortal? Acho que tenho minha resposta.</p>"
-                +"<p>A mãe se virou. E, ao perceber o olhar dela, Jude correu para a sala.</p>"
-                +"<p>Taryn ainda estava dormindo. A televisão ainda estava ligada. Vivienne ergueu o rosto, os olhos felinos semicerrados.</p>"
-                +"<p>— Quem está na porta? — perguntou ela. — Ouvi uma discussão.</p>"
-                +"<p>— Um homem assustador — respondeu Jude, sem fôlego, embora mal tivesse corrido. Seu coração estava em disparada. — Temos que subir.</p>"
-                +"<p>Ela não ligava que a mãe só tivesse dito para ela subir. Não subiria sozinha. Com um suspiro, Vivi saiu do sofá e acordou Taryn. Sonolenta, a gêmea de Jude as seguiu pelo corredor.</p>"
-                +"<p>Quando correram em direção aos degraus acarpetados, Jude viu seu pai entrando, vindo do jardim. Segurava um machado, feito para ser uma réplica quase exata de outro que ele estudara num museu da Islândia. Não era incomum vê-lo com um machado. Ele e os amigos gostavam de armas antigas e passavam bastante tempo falando sobre “cultura material” e projetando lâminas fantásticas. Na verdade, o que parecia estranho era o jeito como ele segurava a arma, como se fosse...</p>"
-                +"<p>O pai lançou o machado na direção do homem alto.</p>"
-                +"<p>Ele nunca havia nem levantado a mão para Jude e as irmãs, nem mesmo quando elas se metiam em encrencas grandes. Ele não machucava ninguém. Era incapaz disso.</p>"
-                +"<p>E ainda assim... E ainda assim...</p>"
-                +"<p>O machado passou pelo homem alto e acertou a soleira da porta.</p>"
-                +"<p>Taryn deu um gritinho e tapou a boca com as mãos.</p>"
-                +"<p>O homem alto sacou uma lâmina curva que estava escondida sob o casaco de couro. Uma espada, tipo aquelas das histórias de aventura. Seu pai estava tentando soltar o machado da moldura da porta quando o sujeito lhe cravou a lâmina na barriga, empurrando para cima. O som foi de palitos se quebrando e um urro animalesco. O pai caiu no tapete da entrada, sobre o qual a mãe sempre reclamava quando as meninas sujavam de lama.</p>"
-                +"<p>O tapete estava ficando vermelho.</p>"
-                +"<p>A mãe gritou. Jude gritou. Taryn e Vivi gritaram. Todo mundo parecia estar gritando, menos o homem alto.</p>"
-                +"<p>— Venha aqui — disse ele, olhando diretamente para Vivi.</p>"
-                +"<p>— S-seu monstro — gritou a mãe, correndo para a cozinha. — Ele está morto!</p>"
-                +"<p>— Não fuja de mim — disse o homem para ela. — Não depois do que você fez. Se fugir de novo, eu juro que...</p>"
-                +"<p>Mas ela fugiu. E estava quase virando no corredor quando a espada a acertou nas costas, derrubando-a no linóleo, os braços jogando os ímãs da geladeira no chão.</p>"
-                +"<p>O cheiro de sangue fresco estava denso no ar, feito metal úmido e quente. Como as esponjas que a mãe usava para limpar a frigideira quando alguma coisa grudava.</p>"
-                +"<p>Jude avançou para o homem e começou a socar seu peito, a chutar suas pernas. Ela sequer conseguia sentir medo. Aliás, não sabia dizer nem se estava sentindo alguma coisa.</p>"
-                +"<p>O homem não deu atenção a Jude. Por um longo momento, simplesmente ficou ali parado, como se não conseguisse acreditar no que tinha feito. Como se desejasse poder voltar atrás cinco minutos. Em seguida, se apoiou em um dos joelhos e segurou os ombros da menina. Ele prendeu os braços de Jude junto ao corpo para que ela parasse com os golpes, mas sequer olhou em sua direção enquanto fazia isso.</p>"
-                +"<p>O olhar dele estava grudado em Vivienne.</p>"
-                +"<p>— Você foi roubada de mim — disse o homem. — Vim levá-la para seu verdadeiro lar, em Elfhame, embaixo da colina. Lá, você será rica de maneira inimaginável. Lá, vai estar com sua espécie.</p>"
-                +"<p>— Não — respondeu Vivi, a vozinha melancólica. — Eu não vou a lugar nenhum com você.</p>"
-                +"<p>— Eu sou seu pai — revelou ele, a voz dura, subindo como o estalo de um chicote. — Você é minha herdeira e sangue do meu sangue, e vai me obedecer quanto a isso, assim como me obedecerá quanto a qualquer outro assunto.</p>"
-                +"<p>Ela não se mexeu, mas contraiu o maxilar.</p>"
-                +"<p>— Você não é o pai dela — gritou Jude para o homem. Ainda que ele e Vivi tivessem os mesmos olhos, ela não se permitiria acreditar.</p>"
-                +"<p>Ele apertou mais os ombros da garota, que emitiu um som constrito e agudo, mas permaneceu encarando-o com expressão desafiadora. Já tinha vencido muitas competições de encarar.</p>"
-                +"<p>O homem afastou o olhar primeiro. Ele encarava uma Taryn de joelhos, chorando e sacudindo a mãe como se tentasse acordá-la. A mulher não se mexia. Sua mãe e seu pai estavam mortos. Eles nunca mais se mexeriam de novo.</p>"
-                +"<p>— Eu odeio você — proclamou Vivi para o homem alto com uma ferocidade que orgulhou Jude. — Vou odiar você para sempre. Juro que vou.</p>"
-                +"<p>A expressão pétrea do homem não mudou.</p>"
-                +"<p>— Ainda assim, você vem comigo. Prepare essas pequenas humanas. Pegue poucas coisas. Vamos partir antes de escurecer.</p>"
-                +"<p>Vivienne empinou o queixo.</p>"
-                +"<p>— Não mexa com elas. Se tiver que me levar, tudo bem, mas não mexa com elas.</p>"
-                +"<p>Ele encarou Vivi e riu com deboche.</p>"
-                +"<p>— Você protegeria suas irmãs de mim, é? Diga-me, então, para onde você as levaria?</p>"
-                +"<p>Vivi não respondeu. Elas não tinham avós, nenhum familiar vivo. Não que soubessem, pelo menos.</p>"
-                +"<p>Ele olhou para Jude mais uma vez, soltou seus ombros e ficou de pé.</p>"
-                +"<p>— Elas são prole da minha esposa e, assim, minha responsabilidade. Posso ser cruel, um monstro e um assassino, mas não fujo das minhas responsabilidades. E você também não deveria fugir das suas, não como irmã mais velha.</p>"
-                +"<p>Anos depois, quando Jude repassava os acontecimentos, ela não conseguia se lembrar da parte em que fizeram as malas. O choque parecia ter apagado aquela hora completamente. De algum modo, Vivi deve ter encontrado bolsas, guardado os livros e brinquedos favoritos das três, junto com fotografias e pijamas e casacos e camisas.</p>"
-                +"<p>Ou talvez Jude tivesse feito a própria mala. Vivi nunca soube dizer com certeza.</p>"
-                +"<p>Não conseguia imaginar como fizeram as malas com os corpos dos pais esfriando no andar de baixo. Não conseguia se lembrar de como se sentiram e, conforme os anos foram passando, não conseguia se obrigar a sentir de novo. O horror daqueles assassinatos foi se apagando com o tempo. Suas lembranças do dia ficaram indistintas.</p>"
-                +"<p>Um cavalo negro pastava no gramado quando elas saíram. Os olhos do bicho eram grandes e suaves. Jude teve vontade de abraçá-lo e de encostar o rosto na crina sedosa. Mas antes que pudesse fazê-lo, o homem alto a posicionou na sela com Taryn, manuseando-as feito bagagem e não como crianças. Colocou Vivi sentada atrás dele.</p>"
-                +"<p>— Segurem-se — ordenou.</p>"
-                +"<p>Jude e suas irmãs choraram durante todo o caminho até o Reino das Fadas.</p>",   
+                content: "Em uma sonolenta tarde de sábado, um homem vestindo um casaco escuro e comprido hesitou na frente de uma casa numa rua arborizada. Ele não tinha estacionado seu carro nem tinha ido de táxi. Nenhum vizinho o vira andando pela calçada. Ele simplesmente apareceu, como se tivesse dado um passo entre uma sombra e outra.</NBO>"
+                +"O homem andou até a porta e levantou o punho para bater.</NBO>"
+                +"Dentro da casa, Jude estava sentada no tapete da sala de estar comendo palitinhos de peixe empanado murchos por causa do micro-ondas e mergulhados em uma poça de ketchup. Sua irmã gêmea, Taryn, cochilava no sofá, encolhida sob um cobertor, o polegar enfiado na boca manchada de ponche de frutas. E do outro lado do sofá, a irmã mais velha delas, Vivienne, encarava a tela da televisão, o olhar esquisito de pupilas partidas grudado no desenho do rato que fugia do gato. Ela riu quando pareceu que o rato seria comido.</NBO>"
+                +"Vivi não era feito as outras irmãs mais velhas, mas como Jude e Taryn, de sete anos, eram idênticas — com os mesmos cabelos castanhos ondulados e rostos de queixo fino —, elas também se tornavam diferentes. Para Jude, os olhos de Vivi e as pontinhas levemente peludas de suas orelhas não eram muito mais estranhos do que ser a imagem espelhada de outra pessoa.</NBO>"
+                +"E se Jude reparava no modo como as crianças do bairro evitavam Vivi, ou em como os pais cochichavam de maneira preocupada a respeito da garota, ela não achava que fosse algo realmente importante. Adultos viviam preocupados, sempre sussurrando.</NBO>"
+                +"Taryn bocejou e se espreguiçou, apertando a bochecha no joelho de Vivi.</NBO>"
+                +"O sol brilhava lá fora, queimando o asfalto da entrada das casas. Motores de cortadores de grama zumbiam, e crianças brincavam em piscinas de quintal. O pai das garotas estava no barracão do jardim, onde havia uma pequena oficina. A mãe estava na cozinha, fazendo hambúrguer. Tudo estava um tédio. Tudo estava bem.</NBO>"
+                +"Quando a batida soou, Jude pulou para atender. Esperava que fosse uma das garotas da casa da frente, querendo jogar videogame ou convidando-a para nadar depois do jantar.</NBO>"
+                +"O homem alto estava sobre o capacho, olhando para ela.</NBO>"
+                +"Usava um casaco marrom de couro, apesar do calor. Os sapatos tinham solado de prata e fizeram um som seco quando ele pisou na entrada. Jude olhou para o rosto mal barbeado e tremeu.</NBO>"
+                +"— Mãe — gritou. — Mããããããããe. Tem uma pessoa aqui.</NBO>"
+                +"A mãe veio da cozinha, secando as mãos na calça jeans.</NBO>"
+                +"Quando viu o homem, ficou pálida.</NBO>"
+                +"— Vá para o seu quarto — ordenou a Jude com uma voz assustadora. — Agora!</NBO>"
+                +"— De quem essa menina é filha? — perguntou o homem, apontando para ela. A voz tinha um sotaque estranho. — Sua? Dele?</NBO>"
+                +"— De ninguém. — A mãe nem olhou na direção de Jude. — Ela não é filha de ninguém.</NBO>"
+                +"Isso não era verdade. Jude e Taryn eram idênticas ao pai. Todo mundo falava isso. Ela deu alguns passos na direção da escada, mas não queria ficar sozinha no quarto. Vivi, pensou Jude. Vivi vai saber quem é o homem alto. Vivi vai saber o que fazer.</NBO>"
+                +"Mas Jude não conseguiu se obrigar a dar mais um passo.</NBO>"
+                +"— Eu já vi muitas coisas impossíveis — disse o homem. — Já vi a bolota antes do carvalho. Já vi a fagulha antes da chama. Mas nunca vi uma mulher morta viver. Uma criança nascida do nada.</NBO>"
+                +"A mãe pareceu não ter palavras. Seu corpo estava vibrando de tensão. Jude queria segurar a mão dela e apertar, mas não ousava.</NBO>"
+                +"— Duvidei de Balekin quando ele me contou que eu encontraria você aqui — disse o homem, a voz mais suave agora. — Os ossos da mulher mundana e da criança natimorta nos restos queimados de minha propriedade foram convincentes. Tem ideia do que é voltar da batalha e encontrar sua esposa morta, seu único herdeiro com ela? Encontrar sua vida reduzida a cinzas?</NBO>"
+                +"A mãe balançou a cabeça, não como se estivesse respondendo, mas como se estivesse tentando afastar as palavras.</NBO>"
+                +"Ele deu um passo em sua direção, e ela deu um passo para trás. Havia algum problema na perna do homem alto. Ele se movimentava com rigidez, como se estivesse sentindo dor. A luz era diferente no saguão de entrada, e Jude conseguia notar o tom esverdeado esquisito da pele dele, o jeito como os dentes inferiores pareciam grandes demais para a boca.</NBO>"
+                +"Ela também notou que os olhos do homem eram iguais aos de Vivi.</NBO>"
+                +"— Eu nunca seria feliz com você — disse a mãe. — Seu mundo não é para pessoas como eu.</NBO>"
+                +"O homem alto a olhou por um longo momento.</NBO>"
+                +"— Você fez um voto — disse ele por fim.</NBO>"
+                +"Ela empinou o queixo.</NBO>"
+                +"— E renunciei a ele.</NBO>"
+                +"O olhar do homem foi até Jude, e sua expressão ficou mais dura.</NBO>"
+                +"— O que vale a promessa de uma esposa mortal? Acho que tenho minha resposta.</NBO>"
+                +"A mãe se virou. E, ao perceber o olhar dela, Jude correu para a sala.</NBO>"
+                +"Taryn ainda estava dormindo. A televisão ainda estava ligada. Vivienne ergueu o rosto, os olhos felinos semicerrados.</NBO>"
+                +"— Quem está na porta? — perguntou ela. — Ouvi uma discussão.</NBO>"
+                +"— Um homem assustador — respondeu Jude, sem fôlego, embora mal tivesse corrido. Seu coração estava em disparada. — Temos que subir.</NBO>"
+                +"Ela não ligava que a mãe só tivesse dito para ela subir. Não subiria sozinha. Com um suspiro, Vivi saiu do sofá e acordou Taryn. Sonolenta, a gêmea de Jude as seguiu pelo corredor.</NBO>"
+                +"Quando correram em direção aos degraus acarpetados, Jude viu seu pai entrando, vindo do jardim. Segurava um machado, feito para ser uma réplica quase exata de outro que ele estudara num museu da Islândia. Não era incomum vê-lo com um machado. Ele e os amigos gostavam de armas antigas e passavam bastante tempo falando sobre “cultura material” e projetando lâminas fantásticas. Na verdade, o que parecia estranho era o jeito como ele segurava a arma, como se fosse...</NBO>"
+                +"O pai lançou o machado na direção do homem alto.</NBO>"
+                +"Ele nunca havia nem levantado a mão para Jude e as irmãs, nem mesmo quando elas se metiam em encrencas grandes. Ele não machucava ninguém. Era incapaz disso.</NBO>"
+                +"E ainda assim... E ainda assim...</NBO>"
+                +"O machado passou pelo homem alto e acertou a soleira da porta.</NBO>"
+                +"Taryn deu um gritinho e tapou a boca com as mãos.</NBO>"
+                +"O homem alto sacou uma lâmina curva que estava escondida sob o casaco de couro. Uma espada, tipo aquelas das histórias de aventura. Seu pai estava tentando soltar o machado da moldura da porta quando o sujeito lhe cravou a lâmina na barriga, empurrando para cima. O som foi de palitos se quebrando e um urro animalesco. O pai caiu no tapete da entrada, sobre o qual a mãe sempre reclamava quando as meninas sujavam de lama.</NBO>"
+                +"O tapete estava ficando vermelho.</NBO>"
+                +"A mãe gritou. Jude gritou. Taryn e Vivi gritaram. Todo mundo parecia estar gritando, menos o homem alto.</NBO>"
+                +"— Venha aqui — disse ele, olhando diretamente para Vivi.</NBO>"
+                +"— S-seu monstro — gritou a mãe, correndo para a cozinha. — Ele está morto!</NBO>"
+                +"— Não fuja de mim — disse o homem para ela. — Não depois do que você fez. Se fugir de novo, eu juro que...</NBO>"
+                +"Mas ela fugiu. E estava quase virando no corredor quando a espada a acertou nas costas, derrubando-a no linóleo, os braços jogando os ímãs da geladeira no chão.</NBO>"
+                +"O cheiro de sangue fresco estava denso no ar, feito metal úmido e quente. Como as esponjas que a mãe usava para limpar a frigideira quando alguma coisa grudava.</NBO>"
+                +"Jude avançou para o homem e começou a socar seu peito, a chutar suas pernas. Ela sequer conseguia sentir medo. Aliás, não sabia dizer nem se estava sentindo alguma coisa.</NBO>"
+                +"O homem não deu atenção a Jude. Por um longo momento, simplesmente ficou ali parado, como se não conseguisse acreditar no que tinha feito. Como se desejasse poder voltar atrás cinco minutos. Em seguida, se apoiou em um dos joelhos e segurou os ombros da menina. Ele prendeu os braços de Jude junto ao corpo para que ela parasse com os golpes, mas sequer olhou em sua direção enquanto fazia isso.</NBO>"
+                +"O olhar dele estava grudado em Vivienne.</NBO>"
+                +"— Você foi roubada de mim — disse o homem. — Vim levá-la para seu verdadeiro lar, em Elfhame, embaixo da colina. Lá, você será rica de maneira inimaginável. Lá, vai estar com sua espécie.</NBO>"
+                +"— Não — respondeu Vivi, a vozinha melancólica. — Eu não vou a lugar nenhum com você.</NBO>"
+                +"— Eu sou seu pai — revelou ele, a voz dura, subindo como o estalo de um chicote. — Você é minha herdeira e sangue do meu sangue, e vai me obedecer quanto a isso, assim como me obedecerá quanto a qualquer outro assunto.</NBO>"
+                +"Ela não se mexeu, mas contraiu o maxilar.</NBO>"
+                +"— Você não é o pai dela — gritou Jude para o homem. Ainda que ele e Vivi tivessem os mesmos olhos, ela não se permitiria acreditar.</NBO>"
+                +"Ele apertou mais os ombros da garota, que emitiu um som constrito e agudo, mas permaneceu encarando-o com expressão desafiadora. Já tinha vencido muitas competições de encarar.</NBO>"
+                +"O homem afastou o olhar primeiro. Ele encarava uma Taryn de joelhos, chorando e sacudindo a mãe como se tentasse acordá-la. A mulher não se mexia. Sua mãe e seu pai estavam mortos. Eles nunca mais se mexeriam de novo.</NBO>"
+                +"— Eu odeio você — proclamou Vivi para o homem alto com uma ferocidade que orgulhou Jude. — Vou odiar você para sempre. Juro que vou.</NBO>"
+                +"A expressão pétrea do homem não mudou.</NBO>"
+                +"— Ainda assim, você vem comigo. Prepare essas pequenas humanas. Pegue poucas coisas. Vamos partir antes de escurecer.</NBO>"
+                +"Vivienne empinou o queixo.</NBO>"
+                +"— Não mexa com elas. Se tiver que me levar, tudo bem, mas não mexa com elas.</NBO>"
+                +"Ele encarou Vivi e riu com deboche.</NBO>"
+                +"— Você protegeria suas irmãs de mim, é? Diga-me, então, para onde você as levaria?</NBO>"
+                +"Vivi não respondeu. Elas não tinham avós, nenhum familiar vivo. Não que soubessem, pelo menos.</NBO>"
+                +"Ele olhou para Jude mais uma vez, soltou seus ombros e ficou de pé.</NBO>"
+                +"— Elas são prole da minha esposa e, assim, minha responsabilidade. Posso ser cruel, um monstro e um assassino, mas não fujo das minhas responsabilidades. E você também não deveria fugir das suas, não como irmã mais velha.</NBO>"
+                +"Anos depois, quando Jude repassava os acontecimentos, ela não conseguia se lembrar da parte em que fizeram as malas. O choque parecia ter apagado aquela hora completamente. De algum modo, Vivi deve ter encontrado bolsas, guardado os livros e brinquedos favoritos das três, junto com fotografias e pijamas e casacos e camisas.</NBO>"
+                +"Ou talvez Jude tivesse feito a própria mala. Vivi nunca soube dizer com certeza.</NBO>"
+                +"Não conseguia imaginar como fizeram as malas com os corpos dos pais esfriando no andar de baixo. Não conseguia se lembrar de como se sentiram e, conforme os anos foram passando, não conseguia se obrigar a sentir de novo. O horror daqueles assassinatos foi se apagando com o tempo. Suas lembranças do dia ficaram indistintas.</NBO>"
+                +"Um cavalo negro pastava no gramado quando elas saíram. Os olhos do bicho eram grandes e suaves. Jude teve vontade de abraçá-lo e de encostar o rosto na crina sedosa. Mas antes que pudesse fazê-lo, o homem alto a posicionou na sela com Taryn, manuseando-as feito bagagem e não como crianças. Colocou Vivi sentada atrás dele.</NBO>"
+                +"— Segurem-se — ordenou.</NBO>"
+                +"Jude e suas irmãs choraram durante todo o caminho até o Reino das Fadas.</NBO>",   
             },
             {
                 chapter: 1,
-                content: "<p>No Reino das Fadas, não há palitinhos de peixe empanado, ketchup ou televisão.</p>",   
+                content: "No Reino das Fadas, não há palitinhos de peixe empanado, ketchup ou televisão.</NBO>",   
             },
             {
                 chapter: 2,
@@ -150,7 +150,7 @@ var books = [
                 content: "No dis",   
             },
         ],
-        imgUrl: "https://images-na.ssl-images-amazon.com/images/P/B00OZP5VRS.01._SCLZZZZZZZ_SX500_.jpg",
+        imgUrl: "https://images-na.ssl-images-amazon.com/images/P/B01ACFIWT8.01._SCLZZZZZZZ_SX500_.jpg",
     },
     {
         id: 4,
@@ -233,7 +233,7 @@ var books = [
     {
         id: 7,
         title: "O Colecionador",
-        synopsis: "O COLECIONADOR é a história de Frederick Clegg, um homem solitário, de origem humilde, menosprezado por uma sociedade esnobe, que encontra o grande amor de sua vida. Tudo o que ele deseja é passar um tempo a sós com ela, demonstrar seus nobres sentimentos e deixar claro que eles nasceram um para o outro.O COLECIONADOR também é a história de Miranda Gray, uma jovem estudante de artes sequestrada por um maníaco que acha que pode obrigá-la a se apaixonar por ele. Tudo o que ela deseja é escapar do cativeiro, e vai usar de toda sua inteligência para sobreviver ao inferno em que sua vida se transformou. O romance é narrado por dois personagens antagônicos: o sequestrador e sua vítima. Frederick e Miranda. Todos temos um pouco dos dois dentro de nós, concluímos ao final de suas páginas ― quem consegue se desgrudar delas? Essa obra-prima lançada em 1963 continua perigosamente atual.",
+        synopsis: "O COLECIONADOR é a história de Frederick Clegg, um homem solitário, de origem humilde, menosprezado por uma sociedade esnobe, que encontra o grande amor de sua vida. Tudo o que ele deseja é passar um tempo a sós com ela, demonstrar seus nobres sentimentos e deixar claro que eles nasceram um para o outro.</NBO>O COLECIONADOR também é a história de Miranda Gray, uma jovem estudante de artes sequestrada por um maníaco que acha que pode obrigá-la a se apaixonar por ele. Tudo o que ela deseja é escapar do cativeiro, e vai usar de toda sua inteligência para sobreviver ao inferno em que sua vida se transformou.</NBO> O romance é narrado por dois personagens antagônicos: o sequestrador e sua vítima. Frederick e Miranda. Todos temos um pouco dos dois dentro de nós, concluímos ao final de suas páginas ― quem consegue se desgrudar delas? Essa obra-prima lançada em 1963 continua perigosamente atual.",
         author: "John Fowles",
         stars: 4.5,
         chapters: [
@@ -254,7 +254,7 @@ var books = [
                 content: "No dis",   
             },
         ],
-        imgUrl: "https://m.media-amazon.com/images/P/B07D7HRR4Q.01._SCLZZZZZZZ_SX500_.jpg",
+        imgUrl: "https://m.media-amazon.com/images/P/B08L9Q637Y.01._SCLZZZZZZZ_SX500_.jpg",
     },
     {
         id: 8,
@@ -286,7 +286,7 @@ var books = [
     {
         id: 9,
         title: "Vermelho, branco e sangue azul",
-        synopsis: "O que pode acontecer quando o filho da presidenta dos Estados Unidos se apaixona pelo príncipe da Inglaterra? </br>  Quando sua mãe foi eleita presidenta dos Estados Unidos, Alex Claremont-Diaz se tornou o novo queridinho da mídia norte-americana. Bonito, carismático e com personalidade forte, Alex tem tudo para seguir os passos de seus pais e conquistar uma carreira na política, como tanto deseja. Mas quando sua família é convidada para o casamento real do príncipe britânico Philip, Alex tem que encarar o seu primeiro desafio diplomático: lidar com Henry, irmão mais novo de Philip, o príncipe mais adorado do mundo, com quem ele é constantemente comparado ― e que ele não suporta. O encontro entre os dois sai pior do que o esperado, e no dia seguinte todos os jornais do mundo estampam fotos de Alex e Henry caídos em cima do bolo real, insinuando uma briga séria entre os dois. Para evitar um desastre diplomático, eles passam um fim de semana fingindo ser melhores amigos e não demora para que essa relação evolua para algo que nenhum dos dois poderia imaginar ― e que não tem nenhuma chance de dar certo. Ou tem? ",
+        synopsis: "O que pode acontecer quando o filho da presidenta dos Estados Unidos se apaixona pelo príncipe da Inglaterra? </NBO>  Quando sua mãe foi eleita presidenta dos Estados Unidos, Alex Claremont-Diaz se tornou o novo queridinho da mídia norte-americana. Bonito, carismático e com personalidade forte, Alex tem tudo para seguir os passos de seus pais e conquistar uma carreira na política, como tanto deseja. Mas quando sua família é convidada para o casamento real do príncipe britânico Philip, Alex tem que encarar o seu primeiro desafio diplomático: lidar com Henry, irmão mais novo de Philip, o príncipe mais adorado do mundo, com quem ele é constantemente comparado ― e que ele não suporta. O encontro entre os dois sai pior do que o esperado, e no dia seguinte todos os jornais do mundo estampam fotos de Alex e Henry caídos em cima do bolo real, insinuando uma briga séria entre os dois. Para evitar um desastre diplomático, eles passam um fim de semana fingindo ser melhores amigos e não demora para que essa relação evolua para algo que nenhum dos dois poderia imaginar ― e que não tem nenhuma chance de dar certo. Ou tem? ",
         author: "Casey McQuiston",
         stars: 4.24,
         chapters: [
